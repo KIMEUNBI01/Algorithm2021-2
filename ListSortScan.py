@@ -1,3 +1,4 @@
+def two_sum(X,Y,t):
 
 # A 입력
 A = list(map(int,input().split()))
